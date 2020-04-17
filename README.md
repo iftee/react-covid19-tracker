@@ -10,7 +10,7 @@ See the working example at https://iftee.github.io/react-covid19-tracker/.
 ## Features
 - Global historical data (total infected, total recovered and total died) in line chrat format.
 - Countrywise updated data (total infected, total recovered and total died) in bar chart format. Countrywise historical data is not available.
-- Dark (default) and light mode support.
+- Dark and light mode support.
 
 ## Developer Instruction
 - Install all Node dependencies.
