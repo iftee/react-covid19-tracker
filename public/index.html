@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-61017602-5"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-61017602-5');
+    </script>
     <meta charset="utf-8" />
     <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
     <meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width" />
@@ -9,6 +18,10 @@
       name="description"
       content="Check latest COVID-19 data"
     />
+    <meta property="og:url" content="https://iftee.github.io/react-covid19-tracker/"/>
+    <meta property="og:title" content="COVID-19 Daily Data"/>
+    <meta property="og:description" content="Check latest COVID-19 data."/>
+    <meta property="og:image" content="https://repository-images.githubusercontent.com/256413808/683b5e80-80a2-11ea-8055-16f5e146a0b6"/>
     <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,400&display=swap">
