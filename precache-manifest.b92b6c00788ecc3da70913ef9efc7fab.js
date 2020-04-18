@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ad85dcffd77ab2802d0255c4f746f41",
+    "revision": "f3c5a491027a0fb7a073ed0dfbc27d50",
     "url": "/react-covid19-tracker/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-covid19-tracker/static/js/2.d0d2ab3f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "12a66ec536bb9c69f17a",
-    "url": "/react-covid19-tracker/static/js/main.f6cac342.chunk.js"
+    "revision": "0eebf0011cacfcd030d3",
+    "url": "/react-covid19-tracker/static/js/main.bf027d2d.chunk.js"
   },
   {
     "revision": "8dff6f747fb39dc710bc",
