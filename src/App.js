@@ -50,7 +50,7 @@ export const App = () => {
 
   const toggleTheme = () => {
     if (theme.palette.type === 'dark') {      
-      window.localStorage.setItem('themePaletteType', 'light');
+      window.localStorage.setItem('rc19dThemePaletteType', 'light');
       const updatedTheme = {
         ...theme,
         palette: {
@@ -60,13 +60,13 @@ export const App = () => {
       }
       setTheme(updatedTheme);
     } else {
-      window.localStorage.setItem('themePaletteType', 'dark'); 
+      window.localStorage.setItem('rc19dThemePaletteType', 'dark'); 
       setTheme(themeObject);
     }
   }
 
   useEffect(() => {
-    const localThemePaletteType = window.localStorage.getItem('themePaletteType');
+    const localThemePaletteType = window.localStorage.getItem('rc19dThemePaletteType');
     if (localThemePaletteType) {
       const updatedTheme = {
         ...theme,

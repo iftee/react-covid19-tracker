@@ -1,4 +1,4 @@
-![Social Cover](https://repository-images.githubusercontent.com/256413808/683b5e80-80a2-11ea-8055-16f5e146a0b6)
+![Screenshot](https://repository-images.githubusercontent.com/256413808/683b5e80-80a2-11ea-8055-16f5e146a0b6)
 
 # React COVID-19 Tracker
 A React application for viewing worldwide COVID-19 data.
@@ -10,7 +10,7 @@ See the working example at https://iftee.github.io/react-covid19-tracker/.
 ## Features
 - Global historical data (total infected, total recovered and total died) in line chrat format.
 - Countrywise updated data (total infected, total recovered and total died) in bar chart format. Countrywise historical data is not available.
-- Dark and light mode support.
+- Dark (default) and light mode support.
 
 ## Developer Instruction
 - Install all Node dependencies.
