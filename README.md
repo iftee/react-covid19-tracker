@@ -3,7 +3,7 @@
 # React COVID-19 Tracker
 A React application for viewing worldwide COVID-19 data.
 
-See the working example at https://iftee.github.io/react-covid19-tracker/.
+See the working example at https://iftee.github.io/react-covid19-tracker/
 
 ![Screenshot](public/screenshot.png)
 
